@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/lynntuuu/sayhi-npm/compare/v1.0.4...v1.0.5) (2023-09-18)
+
+
+### Bug Fixes
+
+* Remove the ability to publish to GitHub Packages ([50a93af](https://github.com/lynntuuu/sayhi-npm/commit/50a93afb093ca82c8a6b7bd06a2f19e99d11a876))
+
 ## [1.0.4](https://github.com/lynntuuu/sayhi-npm/compare/v1.0.3...v1.0.4) (2023-09-18)
 
 
