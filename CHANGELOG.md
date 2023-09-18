@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/lynntuuu/sayhi-npm/compare/v1.0.3...v1.0.4) (2023-09-18)
+
+
+### Bug Fixes
+
+* Added the ability to publish to GitHub Packages ([a6abd36](https://github.com/lynntuuu/sayhi-npm/commit/a6abd36884bee1e6e2b464eb0572e3e4a00d0925))
+
 ## [1.0.3](https://github.com/lynntuuu/sayhi-npm/compare/v1.0.2...v1.0.3) (2023-09-18)
 
 
