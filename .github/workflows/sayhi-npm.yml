@@ -53,7 +53,7 @@ jobs:
         if: ${{ steps.release.outputs.release_created }}      
 
       # Publish to GitHub Packages
-      - run: npm publish
+      - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         if: ${{ steps.release.outputs.release_created }}    
